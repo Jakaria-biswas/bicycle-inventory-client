@@ -1,0 +1,33 @@
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap');
+
+
+.aut-hbg {
+    background-image: url('../../images/authbg.jpg');
+    width: 100%;
+    height: 100vh;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.box{
+    background-color: white;
+    width:400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding:10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 10px;
+}
+.box h2{
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.form-label{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+}

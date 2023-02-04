@@ -1,0 +1,58 @@
+.icon {
+    font-size: 25px;
+    cursor: pointer;
+    /* color: gray; */
+}
+
+.item-btn {
+    padding: 2px;
+    border: none;
+    border-radius: 50%;
+}
+
+.item-btn:hover {
+    background-color: orangered;
+}
+
+.icon:hover {
+    color: black;
+}
+
+.delete-btn {
+   
+    cursor: pointer;
+    border: none;
+    border-radius: 20%;
+}
+
+.delete-btn:hover {
+    color: red;
+}
+
+.delete-icon {
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.view-icon {
+    font-size: 30px;
+    cursor: pointer;
+
+}
+
+.view-icon:hover {
+    color: green;
+}
+
+.view-btn {
+    border: none;
+    border-radius: 20%;
+}
+
+.view-btn:hover {
+    background-color: lightseagreen;
+}
+
+.view-item-page {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}

@@ -1,0 +1,20 @@
+.navbar-toggler{
+    border: none !important;
+    font-size: 40px;
+}
+.navbar-toggler:focus{
+    box-shadow: none !important;
+    color: red;
+}
+.link{
+    margin: 10px;
+  
+}
+.link a{
+    color:black;
+    text-decoration: none;
+}
+.navbar-brand{
+      margin-top:-24px !important;
+      
+}
